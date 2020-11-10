@@ -1,1 +1,7 @@
-{}
+{
+  "custom-field": "hola",
+  "custom-object": {
+    "custom-line": "hola",
+    "custom-text": "Hola"
+  }
+}
