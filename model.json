@@ -2,7 +2,7 @@
   ":name": "FrontAid CMS Example Model",
   ":description": "This is a very basic example of a FrontAid CMS model file. Feel free to update it according to your needs.",
   "custom-field": {
-    ":description": "This example text is used as a description.",
+    ":description": "Testeando la heraamienta",
     ":type": "line"
   },
   "custom-object": {
